@@ -1,0 +1,175 @@
+*{
+  box-sizing: border-box;
+}
+/*color body*/
+body{
+    background-color: rgb(74, 77, 80);
+}
+ /* ancla mp40*/
+
+.colorhead{
+            background-color: darkred;
+}
+/*buscador*/
+fieldset{
+    border: red 5px ridge;
+  }
+button{
+    background-color: red;
+    border-radius: 20px;
+  }
+legend{
+    width: 40px;
+    height: 20px;
+    margin-right: 0px;
+}
+/*color del encabezado WWII*/
+.text-parada1{
+  
+  color:red;
+  width: 100%;
+  margin-left: 50px;
+  height: 50px;
+  position:fixed;
+  top: 50;
+   
+
+}
+  
+/*parrafo introductorio*/
+.text-parada2{
+  margin-left: 10px;
+  margin-top: 100px;
+  border: bottom right 200px;
+}
+
+/*imagen inicial parada militar*/
+.text-parada3{
+  border-width: 5px;
+  border-style:double ;
+  border-color: red;
+  border-radius: 20px;
+  margin-left: 40px;
+  margin-right: auto;
+  box-shadow: 10px 10px 10px 0px  bl ack;
+  outline:15px double rgb(73, 22, 22);
+}
+/*figcaption image*/
+.text{
+  margin-left: 40px;
+  text-align: top;
+}
+
+/*lista de armas*/
+.nav{
+  padding: 10px;
+  background-color: rgb(37, 37, 36);
+  border: 10px;
+  border-color: red;
+  border-radius: 10px;
+  margin-right:200px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  border-left: grey 15px dotted;
+  border-right: 10px double;
+  border-bottom: 10px double;
+  overflow: auto;
+  box-shadow: 10px 10px 20px black, 20px 20px 20px red;
+  position:sticky;
+  top:0
+}
+/*########################################*/
+/*h2-1*/
+.luger,
+.mg-42{
+  outline:15px double rgb(73, 22, 22);
+}
+
+.luger{
+  background-color: rgb(61, 4, 12);
+  padding: 30px 700px 30px 30px;
+  border-radius: 15px;
+  outline:15px double rgb(73, 22, 22);
+  position: relative;
+  bottom: 10px;
+  right:400px;
+  margin: 0px 0px 0px 400px
+  
+}
+.mg-42{
+  background-color: rgb(61, 4, 12);
+  padding: 30px 700px 30px 30px;
+  border-radius: 15px;
+  outline:15px double rgb(73, 22, 22);
+  position: relative;
+  bottom: 10px;
+  right:400px;
+  margin: 0px 0px 0px 400px
+  
+}
+
+.mp40{
+  background-color: rgb(61, 4, 12);
+  padding: 30px 700px 30px 30px;
+  border-radius: 15px;
+  outline:15px double rgb(73, 22, 22);
+  position: relative;
+  bottom: 10px;
+  right:400px;
+  margin: 0px 0px 0px 400px
+  
+}
+.Sturmgewehr{
+  background-color: rgb(61, 4, 12);
+  padding: 30px 700px 30px 30px;
+  border-radius: 15px;
+  outline:15px double rgb(73, 22, 22);
+  position: relative;
+  bottom: 10px;
+  right:400px;
+  margin: 0px 0px 0px 400px
+  }
+/*h2-1*/
+h2{ 
+color: rgb(180, 22, 22) ;
+border-radius: 15px;
+}
+div .img-1,
+div .img-2,
+div .img-3,
+div .img-4
+{
+  border-style: solid;
+  border-radius: 25px;
+  outline-style:0px dashed black;
+  box-shadow: 10px 10px 20px black;
+}
+.lugerT{
+  padding:10px 0px 0px 10px;
+  box-shadow: inset 10px 10px 20px black ;
+  position: relative;
+  bottom: 400px;
+  margin: 0px 200px 0px 400px 
+  
+}
+.mg-42t{
+  padding:10px 0px 0px 10px;
+  box-shadow:inset 10px 10px 20px black  ;
+  position: relative;
+  bottom: 400px;
+  margin: 0px 200px 0px 400px 
+  }
+  .mp40t{
+    padding:10px 0px 0px 10px;
+    box-shadow: inset 10px 10px 20px black;
+    position: relative;
+    bottom: 400px;
+    margin: 0px 200px 0px 400px
+    }
+    .SturmgewehrT{
+      padding:10px 0px 0px 10px;
+      box-shadow: inset 10px 10px 20px black;
+      position: relative;
+      bottom: 400px;
+      margin: 0px 200px 0px 400px
+      }
